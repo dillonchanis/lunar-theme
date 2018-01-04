@@ -1,0 +1,29 @@
+{
+    "name": "lunar",
+    "displayName": "Lunar",
+    "description": "A dark indigo based theme for VSCode.",
+    "version": "0.0.1",
+    "publisher": "dillonchanis",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lunar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lunar-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "lunar",
+        "theme",
+        "dark",
+        "indigo",
+        "moon"
+    ]
+}
